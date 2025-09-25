@@ -1,0 +1,23 @@
+{
+    "css.customData": [
+        ".vscode/css.customData.json"
+    ],
+    "css.completion.completePropertyWithSemicolon": true,
+    "css.completion.triggerPropertyValueCompletion": true,
+    "css.hover.documentation": true,
+    "css.hover.references": true,
+    "css.validate": true,
+    "scss.completion.completePropertyWithSemicolon": true,
+    "scss.completion.triggerPropertyValueCompletion": true,
+    "css.completion.includeZ": true,
+    "files.associations": {
+        "*.css": "css"
+    },
+    "emmet.includeLanguages": {
+        "svelte": "html"
+    },
+    "svelte.enable-ts-plugin": true,
+    "[svelte]": {
+        "editor.defaultFormatter": "svelte.svelte-vscode"
+    }
+}

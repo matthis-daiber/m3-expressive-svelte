@@ -1,0 +1,150 @@
+{
+  "version": 1.1,
+  "properties": [
+    {
+      "name": "--md-sys-color-primary",
+      "syntax": "<color>",
+      "description": "Material Design token for: primary"
+    },
+    {
+      "name": "--md-sys-color-on-primary",
+      "syntax": "<color>",
+      "description": "Material Design token for: onPrimary"
+    },
+    {
+      "name": "--md-sys-color-primary-container",
+      "syntax": "<color>",
+      "description": "Material Design token for: primaryContainer"
+    },
+    {
+      "name": "--md-sys-color-on-primary-container",
+      "syntax": "<color>",
+      "description": "Material Design token for: onPrimaryContainer"
+    },
+    {
+      "name": "--md-sys-color-secondary",
+      "syntax": "<color>",
+      "description": "Material Design token for: secondary"
+    },
+    {
+      "name": "--md-sys-color-on-secondary",
+      "syntax": "<color>",
+      "description": "Material Design token for: onSecondary"
+    },
+    {
+      "name": "--md-sys-color-secondary-container",
+      "syntax": "<color>",
+      "description": "Material Design token for: secondaryContainer"
+    },
+    {
+      "name": "--md-sys-color-on-secondary-container",
+      "syntax": "<color>",
+      "description": "Material Design token for: onSecondaryContainer"
+    },
+    {
+      "name": "--md-sys-color-tertiary",
+      "syntax": "<color>",
+      "description": "Material Design token for: tertiary"
+    },
+    {
+      "name": "--md-sys-color-on-tertiary",
+      "syntax": "<color>",
+      "description": "Material Design token for: onTertiary"
+    },
+    {
+      "name": "--md-sys-color-tertiary-container",
+      "syntax": "<color>",
+      "description": "Material Design token for: tertiaryContainer"
+    },
+    {
+      "name": "--md-sys-color-on-tertiary-container",
+      "syntax": "<color>",
+      "description": "Material Design token for: onTertiaryContainer"
+    },
+    {
+      "name": "--md-sys-color-error",
+      "syntax": "<color>",
+      "description": "Material Design token for: error"
+    },
+    {
+      "name": "--md-sys-color-on-error",
+      "syntax": "<color>",
+      "description": "Material Design token for: onError"
+    },
+    {
+      "name": "--md-sys-color-error-container",
+      "syntax": "<color>",
+      "description": "Material Design token for: errorContainer"
+    },
+    {
+      "name": "--md-sys-color-on-error-container",
+      "syntax": "<color>",
+      "description": "Material Design token for: onErrorContainer"
+    },
+    {
+      "name": "--md-sys-color-background",
+      "syntax": "<color>",
+      "description": "Material Design token for: background"
+    },
+    {
+      "name": "--md-sys-color-on-background",
+      "syntax": "<color>",
+      "description": "Material Design token for: onBackground"
+    },
+    {
+      "name": "--md-sys-color-surface",
+      "syntax": "<color>",
+      "description": "Material Design token for: surface"
+    },
+    {
+      "name": "--md-sys-color-on-surface",
+      "syntax": "<color>",
+      "description": "Material Design token for: onSurface"
+    },
+    {
+      "name": "--md-sys-color-surface-variant",
+      "syntax": "<color>",
+      "description": "Material Design token for: surfaceVariant"
+    },
+    {
+      "name": "--md-sys-color-on-surface-variant",
+      "syntax": "<color>",
+      "description": "Material Design token for: onSurfaceVariant"
+    },
+    {
+      "name": "--md-sys-color-outline",
+      "syntax": "<color>",
+      "description": "Material Design token for: outline"
+    },
+    {
+      "name": "--md-sys-color-outline-variant",
+      "syntax": "<color>",
+      "description": "Material Design token for: outlineVariant"
+    },
+    {
+      "name": "--md-sys-color-shadow",
+      "syntax": "<color>",
+      "description": "Material Design token for: shadow"
+    },
+    {
+      "name": "--md-sys-color-scrim",
+      "syntax": "<color>",
+      "description": "Material Design token for: scrim"
+    },
+    {
+      "name": "--md-sys-color-inverse-surface",
+      "syntax": "<color>",
+      "description": "Material Design token for: inverseSurface"
+    },
+    {
+      "name": "--md-sys-color-inverse-on-surface",
+      "syntax": "<color>",
+      "description": "Material Design token for: inverseOnSurface"
+    },
+    {
+      "name": "--md-sys-color-inverse-primary",
+      "syntax": "<color>",
+      "description": "Material Design token for: inversePrimary"
+    }
+  ]
+}
