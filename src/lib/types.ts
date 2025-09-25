@@ -1,6 +1,6 @@
 //#region M3 Tokens - Typography
 export interface TypographyProperties {
-  'font-family': string;
+  'font-family-name': string;
   'font-weight': string;
   'font-size': string;
   'line-height': string;
